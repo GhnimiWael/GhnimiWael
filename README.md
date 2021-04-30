@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://twitter.com/GhnimiWael"  target="_blank">Wael!</a> 👋</h1>
     
-<h3 align="center">An enthusiastic programmer and pentester who loves to explore, automate, break, learn, and hack all things!</h3>
+<h3 align="center">An enthusiastic Cyber Security Researcher who loves to explore, automate, break, learn, and hack all things!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GhnimiWael&style=flat&color=blueviolet" alt=umararfeen/> </p>
 
 ```python3
