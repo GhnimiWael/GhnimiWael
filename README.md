@@ -17,3 +17,8 @@ def greet():
 <a href="https://twitter.com/GhnimiWael" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="syed__umar" height="25" width="25" /></a>
 <a href="https://www.linkedin.com/in/waelghnimi/" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="https://www.linkedin.com/in/waelghnimi/" height="25" width="25" /></a>    
 </p>
+
+## GitHub Stats
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=GhnimiWael&theme=onedark&no-frame=true&column=7" />
+</p>
