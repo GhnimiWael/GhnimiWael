@@ -10,7 +10,7 @@ def greet():
 ```
 <img align="right" alt="🐼" width="28%" src="https://media.tenor.com/KUXIWC9D5_UAAAAj/my-hero-academia-boku-no-hero-academia.gif" />
 
-[![ Pronouns         ](https://img.shields.io/badge/[%20HE%20/%20Him%20]-informational?style=flat-square&color=eeeeee)]()
+
 [![ Languages        ](https://img.shields.io/badge/[%20EN%20|%20AR%20|%20FR%20]-informational?style=flat-square&color=eeeeee)]()
 - 🔓 Cyber Threat Intelligence (CTI) Researcher
 - 🐉 Offensive Security (OSEP - PEN300 | eWAPTx | eJPT)
