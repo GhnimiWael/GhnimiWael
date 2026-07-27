@@ -23,6 +23,7 @@ Re-run:  python3 generate_svg.py
 """
 import html
 import json
+import os
 import textwrap
 import urllib.request
 from datetime import date
@@ -162,8 +163,14 @@ def uptime(start, today=None):
 
 
 def _api(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "profile-card"})
-    with urllib.request.urlopen(req, timeout=8) as r:
+    # GITHUB_TOKEN lifts the 60/h unauthenticated limit — required in CI, where
+    # the runner's IP shares that quota with every other Actions job.
+    headers = {"User-Agent": "profile-card"}
+    token = os.environ.get("GITHUB_TOKEN")
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    req = urllib.request.Request(url, headers=headers)
+    with urllib.request.urlopen(req, timeout=15) as r:
         return json.load(r)
 
 

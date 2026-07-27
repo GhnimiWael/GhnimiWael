@@ -92,16 +92,45 @@ class WaelGhnimi:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GhnimiWael&show_icons=true&count_private=true&hide_border=true&theme=github_dark&title_color=ffa657&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhnimiWael&layout=compact&langs_count=6&hide_border=true&theme=github_dark&title_color=ffa657&text_color=c9d1d9&bg_color=0d1117" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=GhnimiWael&hide_border=true&theme=github-dark-blue&ring=ffa657&fire=f85149&currStreakLabel=3fb950&background=0d1117" />
-</div>
+<!-- Contribution heatmap — served live, always reflects the latest commits -->
+<img alt="Contribution heatmap" width="98%" src="https://ghchart.rshah.org/3fb950/GhnimiWael">
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GhnimiWael&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=GhnimiWael&bg_color=0d1117&color=c9d1d9&line=3fb950&point=ffa657&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=GhnimiWael&bg_color=ffffff&color=1f2328&line=1a7f37&point=953800&area=true&hide_border=true">
+  <img alt="Commit activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GhnimiWael&bg_color=ffffff&color=1f2328&line=1a7f37&point=953800&area=true&hide_border=true" width="98%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhnimiWael&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhnimiWael&theme=default">
+  <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhnimiWael&theme=default">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com/?user=GhnimiWael&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffa657&fire=f85149&currStreakLabel=3fb950">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=GhnimiWael&hide_border=true&background=ffffff&ring=953800&fire=f85149&currStreakLabel=1a7f37">
+  <img alt="Commit streak" src="https://streak-stats.demolab.com/?user=GhnimiWael&hide_border=true&background=ffffff&ring=953800&fire=f85149&currStreakLabel=1a7f37">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhnimiWael&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhnimiWael&theme=default">
+  <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhnimiWael&theme=default">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GhnimiWael&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GhnimiWael&theme=default">
+  <img alt="Most-committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GhnimiWael&theme=default">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhnimiWael&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhnimiWael&theme=default">
+  <img alt="Contribution stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhnimiWael&theme=default">
+</picture>
+
 </div>
 
 ---
