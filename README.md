@@ -114,22 +114,6 @@ class WaelGhnimi:
   <img alt="Commit streak" src="https://streak-stats.demolab.com/?user=GhnimiWael&hide_border=true&background=ffffff&ring=953800&fire=f85149&currStreakLabel=1a7f37">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhnimiWael&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhnimiWael&theme=default">
-  <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhnimiWael&theme=default">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GhnimiWael&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GhnimiWael&theme=default">
-  <img alt="Most-committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GhnimiWael&theme=default">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhnimiWael&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhnimiWael&theme=default">
-  <img alt="Contribution stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhnimiWael&theme=default">
-</picture>
 
 </div>
 
