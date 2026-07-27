@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1272px" height="792px" viewBox="0 0 1272 792" font-size="14px" font-family="'Consolas','DejaVu Sans Mono',monospace">
+
+    <style>
+      text, tspan { white-space: pre;
+        font-family: 'Consolas','DejaVu Sans Mono','Courier New',monospace; }
+      .fg    { fill: #1f2328; }
+      .key   { fill: #953800; }
+      .value { fill: #0550ae; }
+      .cc    { fill: #8c959f; }
+      .p     { fill: #6e7781; }
+      .prompt{ fill: #1a7f37; }
+      .cmd, .orow, .prompt-row { fill: #1f2328; }
+      .cur   { fill: #0550ae; }
+
+      .arow      { animation: type .45s steps(26) backwards; }
+      .cmd       { animation: type .85s steps(24) backwards; }
+      .orow      { animation: type .32s steps(20) backwards; }
+      .prompt-row{ animation: fade .35s ease-out backwards; }
+      .cur       { animation: blink 1.05s steps(1) infinite; }
+
+      @keyframes type  { from { clip-path: inset(0 100% 0 0); }
+                          to   { clip-path: inset(0 -2px 0 0); } }
+      @keyframes fade  { from { opacity: 0; } to { opacity: 1; } }
+      @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+
+      @media (prefers-reduced-motion: reduce) {
+        .arow, .cmd, .orow, .prompt-row { animation: none; clip-path: none; opacity: 1; }
+        .cur { animation: none; }
+      }
+    </style>
+
+    <rect width="1272" height="792" rx="15" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+    <path d="M0 15 A15 15 0 0 1 15 0 L1257 0 A15 15 0 0 1 1272 15 L1272 38 L0 38 Z" fill="#f6f8fa"/>
+    <line x1="0" y1="38" x2="1272" y2="38" stroke="#d0d7de" stroke-width="1"/>
+    <circle cx="22" cy="19" r="6" fill="#ff5f56"/>
+    <circle cx="42" cy="19" r="6" fill="#ffbd2e"/>
+    <circle cx="62" cy="19" r="6" fill="#27c93f"/>
+    <text x="636" y="24" text-anchor="middle" font-size="14px" fill="#6e7781">wael@ghnimi: ~/threat-intel</text>
+
+<text x="22" y="151.99" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.15s"> **#**##***############*********++++*++++++*#####**#*+--------:----------------::-----=== </text>
+<text x="22" y="163.65" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.168s"> **#*#***##########*##*****++*+++++++++*#######**####*=----:::-=+---:------:-:-:-::-:-=== </text>
+<text x="22" y="175.31" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.186s"> **#***############*##************#####################*#*****+=---------------:------=== </text>
+<text x="22" y="186.97" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.204s"> **#*##############**##****+**############################*#*##*=---------:-:----:-::-=== </text>
+<text x="22" y="198.63" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.222s"> **##############*#**#*****#######################*###########**#*+=---------:--------=== </text>
+<text x="22" y="210.29" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.24s"> **#*############****#*########################*###*#*##*###*#####*#+------------:-----== </text>
+<text x="22" y="221.95" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.258s"> ***#############****###################################*######*#*****+---:------------== </text>
+<text x="22" y="233.61" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.276s"> **############**#**#########################**#######**###**##***#***#*+-------------=== </text>
+<text x="22" y="245.27" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.294s"> **#############*###########################################*####*####*##*+-----------=== </text>
+<text x="22" y="256.93" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.312s"> **#############*#*##*###################################**##*####*#*#*#**##**+=------=== </text>
+<text x="22" y="268.59" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.33s"> **#*######*##################################################*###*##*#**##*--=--------== </text>
+<text x="22" y="280.25" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.348s"> ****#####*################################################*##*#####**##**##*-----------= </text>
+<text x="22" y="291.91" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.366s"> ****###############*##############################*#######*##*######**#***##+----------= </text>
+<text x="22" y="303.57" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.384s"> ****##############################################**#################**#*##**----------- </text>
+<text x="22" y="315.23" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.402s"> ****##########################################*##*++##################*##****=---------- </text>
+<text x="22" y="326.89" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.42s"> *****########################################*###+++*#################*#####*+---------= </text>
+<text x="22" y="338.55" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.438s"> ****#########################*##############*###*++=*##################*###***---::----- </text>
+<text x="22" y="350.21" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.456s"> *****#################################%####**##*++--+###########**#########*#*=-:------- </text>
+<text x="22" y="361.87" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.474s"> *****###################*#######*#########*+##*+=---=###########++#########***=----:---- </text>
+<text x="22" y="373.53" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.492s"> *****####################################***###*+=-:+#+########*++*########*##=--::----- </text>
+<text x="22" y="385.19" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.51s"> *****###################################*+=###*=:--=#+-+########***########**++--:------ </text>
+<text x="22" y="396.85" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.528s"> +****##################################*==::::::::=+=-:-###**##+-:+*#######*=--=--:----- </text>
+<text x="22" y="408.51" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.546s"> +****######################**##########+-:::::::::--:::+#*+=-==-:-=+####*=++-----:-:---- </text>
+<text x="22" y="420.17" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.564s"> *****#####################*+*#########*=::::::::-:::::-=-=::::::::-*###=---------------- </text>
+<text x="22" y="431.83" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.582s"> +****#####################+++#**######=-:::::::::::::::::::::::-::=====----:--:----:---- </text>
+<text x="22" y="443.49" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.6s"> +****########*############:-++*+*##+##+::::-::::::::::::::::::--::::---------:--::--:--- </text>
+<text x="22" y="455.15" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.618s"> +****########*############*-:=+++-*--+#+-:::::::::::::::::::::--::::------:---::-------- </text>
+<text x="22" y="466.81" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.636s"> +****########*##############*-::::--:::--:::::::::::::::::::::::::::------::--:--:------ </text>
+<text x="22" y="478.47" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.654s"> ++***##*#####**###############*-:::::::::::::::::::::::::::::::::::--------------::--:-- </text>
+<text x="22" y="490.13" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.672s"> +****####*###**##*###***##########+-:::::::::::::-:::::::::::::::::------:-------------- </text>
+<text x="22" y="501.79" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.69s"> +****#*##*##**###*###*****#*######*+-::::::::::::::::::::::--:::::--:-:------:-----:---- </text>
+<text x="22" y="513.45" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.708s"> ++*****#####***##*###********#####*-+=::::::::::::::::::::::::::---:---:-:------:----:-- </text>
+<text x="22" y="525.11" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.726s"> ++***###**###**###*##********#*##**-:-+=-::::::::::::::::::::::--:::-::---:--:-------:-- </text>
+<text x="22" y="536.77" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.744s"> ++****##*###**##*####***********#=-+-::=++=--::::::::::::::::---::----::::----:--------- </text>
+<text x="22" y="548.43" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.762s"> ++****##**##******###************=::::::-=++++=-::::::::::::------::::-::-:------------- </text>
+<text x="22" y="560.09" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.78s"> ++****###*##***##**##*****#***+++===-------=+++++++==--::::---:--::--:--:::----------:-- </text>
+<text x="22" y="571.75" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.798s"> ++****####*#**#######****###############**+=--=++++++---------:--------:-----:-------:-- </text>
+<text x="22" y="583.41" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.816s"> ++***#*#*###**#****##***#######################+=--==-------:-------:--:-:::---:-------- </text>
+<text x="22" y="595.07" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.834s"> ++****##*###***##*##****###########################*+=-:-=------:---:-------:-----:--:-- </text>
+<text x="22" y="606.73" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.852s"> ++****##*#*#***#*###****################################*+===------------------------:-- </text>
+<text x="22" y="618.39" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.87s"> ++*******###***#***##**###################################*==+*--------:--:--::---:--:-- </text>
+<text x="22" y="630.05" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.888s"> ++****#######**#*#*#######################################+==**------------------:---:-- </text>
+<text x="22" y="641.71" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.906s"> ++****##***#****#########################################*==+#=---------:--:---------:-- </text>
+<text x="22" y="653.37" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.924s"> ++****###*###*###########################################*+=+#---------:---:::::::-:-:-- </text>
+<text x="22" y="665.03" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.942s"> ++****##################################################*+=+*+---------:-----------:-::- </text>
+<text x="22" y="676.69" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.96s"> ++***######################################################*##+-----:---:-:--------:-::: </text>
+<text x="22" y="688.35" class="arow" fill="#1f2328" font-size="11.0px" style="animation-delay:0.978s"> ++*############################################################*+----------:-::-::-:-:-: </text>
+<text x="666" y="64" class="cmd" style="animation-delay:0.25s"><tspan class="prompt">wael@ghnimi</tspan><tspan class="p">:</tspan><tspan class="value">~</tspan><tspan class="p">$</tspan> <tspan class="fg">./whoami.sh --profile</tspan></text>
+
+<text x="666" y="99.2" class="orow" style="animation-delay:1.4s"><tspan class="prompt">wael@ghnimi</tspan><tspan class="p"> ———————————————————————————————————————————————————————</tspan></text>
+<text x="666" y="116.8" class="orow" style="animation-delay:1.46s"><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="p">:</tspan><tspan class="cc"> ............................... </tspan><tspan class="value">Kali Linux, ParrotOS, Windows</tspan></text>
+<text x="666" y="134.4" class="orow" style="animation-delay:1.52s"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="p">:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">6 years, 0 months, 23 days</tspan></text>
+<text x="666" y="152.0" class="orow" style="animation-delay:1.58s"><tspan class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="p">:</tspan><tspan class="cc"> .................. </tspan><tspan class="value">Senior Cyber Threat Intelligence Analyst</tspan></text>
+<text x="666" y="169.6" class="orow" style="animation-delay:1.64s"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="p">:</tspan><tspan class="cc"> ................. </tspan><tspan class="value">Purple Team . CTI . Reverse Engineering</tspan></text>
+<text x="666" y="187.2" class="orow" style="animation-delay:1.7s"><tspan class="cc">. </tspan><tspan class="key">Shell</tspan><tspan class="p">:</tspan><tspan class="cc"> .................. </tspan><tspan class="value">zsh . IDA Pro . Ghidra . Caido . Neovim</tspan></text>
+<text x="666" y="222.4" class="orow" style="animation-delay:1.76s"><tspan class="p">- </tspan><tspan class="key">Certifications</tspan><tspan class="p"> ——————————————————————————————————————————————————</tspan></text>
+<text x="666" y="240.0" class="orow" style="animation-delay:1.82s"><tspan class="cc">. </tspan><tspan class="key">Offensive</tspan><tspan class="p">:</tspan><tspan class="cc"> .............. </tspan><tspan class="value">OSEP, CRTO, eWAPTx, eJPT, HTB Dante Pro</tspan></text>
+<text x="666" y="257.6" class="orow" style="animation-delay:1.88s"><tspan class="cc">. </tspan><tspan class="key">Intelligence</tspan><tspan class="p">:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">arcX CTI 101, ICTTF Ransomware Uncovered</tspan></text>
+<text x="666" y="275.2" class="orow" style="animation-delay:1.94s"><tspan class="cc">. </tspan><tspan class="key">In</tspan><tspan class="p">.</tspan><tspan class="key">Progress</tspan><tspan class="p">:</tspan><tspan class="cc"> .................. </tspan><tspan class="value">OSWE, OSED, arcX CTI Practitioner</tspan></text>
+<text x="666" y="310.4" class="orow" style="animation-delay:2.0s"><tspan class="p">- </tspan><tspan class="key">Stack</tspan><tspan class="p"> ———————————————————————————————————————————————————————————</tspan></text>
+<text x="666" y="328.0" class="orow" style="animation-delay:2.06s"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="p">.</tspan><tspan class="key">Code</tspan><tspan class="p">:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">C, C++, Python, PowerShell, Bash</tspan></text>
+<text x="666" y="345.6" class="orow" style="animation-delay:2.12s"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="p">.</tspan><tspan class="key">Real</tspan><tspan class="p">:</tspan><tspan class="cc"> ......................... </tspan><tspan class="value">Arabic, French, English</tspan></text>
+<text x="666" y="363.2" class="orow" style="animation-delay:2.18s"><tspan class="cc">. </tspan><tspan class="key">Offensive</tspan><tspan class="p">:</tspan><tspan class="cc"> .. </tspan><tspan class="value">Cobalt Strike, Burp Suite Pro, BloodHound, Impacket</tspan></text>
+<text x="666" y="380.8" class="orow" style="animation-delay:2.24s"><tspan class="cc">. </tspan><tspan class="key">Defensive</tspan><tspan class="p">:</tspan><tspan class="cc"> .. </tspan><tspan class="value">MISP, OpenCTI, TheHive, QRadar, Splunk, CrowdStrike</tspan></text>
+<text x="666" y="398.4" class="orow" style="animation-delay:2.3s"><tspan class="cc">. </tspan><tspan class="key">Reversing</tspan><tspan class="p">:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">IDA Pro, Ghidra, x64dbg, CAPEv2, YARA</tspan></text>
+<text x="666" y="416.0" class="orow" style="animation-delay:2.36s"><tspan class="cc">. </tspan><tspan class="key">Frameworks</tspan><tspan class="p">:</tspan><tspan class="cc"> ....... </tspan><tspan class="value">MITRE ATT&amp;CK, Diamond Model, Cyber Kill Chain</tspan></text>
+<text x="666" y="451.2" class="orow" style="animation-delay:2.42s"><tspan class="p">- </tspan><tspan class="key">Research</tspan><tspan class="p"> ————————————————————————————————————————————————————————</tspan></text>
+<text x="666" y="468.8" class="orow" style="animation-delay:2.48s"><tspan class="cc">. </tspan><tspan class="key">TACTFlow</tspan><tspan class="p">:</tspan><tspan class="cc"> ........... </tspan><tspan class="value">Purple-team framework - ATT&amp;CK to playbooks</tspan></text>
+<text x="666" y="486.4" class="orow" style="animation-delay:2.54s"><tspan class="cc">. </tspan><tspan class="key">LDAPHunter</tspan><tspan class="p">:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">Automated AD / LDAP enumeration</tspan></text>
+<text x="666" y="504.0" class="orow" style="animation-delay:2.6s"><tspan class="cc">. </tspan><tspan class="key">Qakbot</tspan><tspan class="p">.</tspan><tspan class="key">Decryptor</tspan><tspan class="p">:</tspan><tspan class="cc"> ...... </tspan><tspan class="value">IDA Pro plugin - config + IOC extraction</tspan></text>
+<text x="666" y="521.6" class="orow" style="animation-delay:2.66s"><tspan class="cc">. </tspan><tspan class="key">CryptBot</tspan><tspan class="p">.</tspan><tspan class="key">Series</tspan><tspan class="p">:</tspan><tspan class="cc"> ........ </tspan><tspan class="value">3-part infostealer deep dive (v1/v2/v3)</tspan></text>
+<text x="666" y="539.2" class="orow" style="animation-delay:2.72s"><tspan class="cc">. </tspan><tspan class="key">DPTML</tspan><tspan class="p">:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">RL-driven pentest automation research</tspan></text>
+<text x="666" y="574.4" class="orow" style="animation-delay:2.78s"><tspan class="p">- </tspan><tspan class="key">Contact</tspan><tspan class="p"> —————————————————————————————————————————————————————————</tspan></text>
+<text x="666" y="592.0" class="orow" style="animation-delay:2.84s"><tspan class="cc">. </tspan><tspan class="key">Website</tspan><tspan class="p">:</tspan><tspan class="cc"> ............................................. </tspan><tspan class="value">0xw43l.com</tspan></text>
+<text x="666" y="609.6" class="orow" style="animation-delay:2.9s"><tspan class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="p">:</tspan><tspan class="cc"> .................................. </tspan><tspan class="value">wael.ghnimi@hotmail.com</tspan></text>
+<text x="666" y="627.2" class="orow" style="animation-delay:2.96s"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="p">:</tspan><tspan class="cc"> ......................................... </tspan><tspan class="value">in/waelghnimi</tspan></text>
+<text x="666" y="644.8" class="orow" style="animation-delay:3.02s"><tspan class="cc">. </tspan><tspan class="key">X</tspan><tspan class="p">.</tspan><tspan class="key">Twitter</tspan><tspan class="p">:</tspan><tspan class="cc"> .......................................... </tspan><tspan class="value">@GhnimiWael</tspan></text>
+<text x="666" y="662.4" class="orow" style="animation-delay:3.08s"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="p">:</tspan><tspan class="cc"> .............................................. </tspan><tspan class="value">GhnimiWael</tspan></text>
+<text x="666" y="697.6" class="orow" style="animation-delay:3.14s"><tspan class="p">- </tspan><tspan class="key">GitHub Stats</tspan><tspan class="p"> ————————————————————————————————————————————————————</tspan></text>
+<text x="666" y="715.2" class="orow" style="animation-delay:3.2s"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="p">:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">32</tspan><tspan class="p"> | </tspan><tspan class="key">Stars</tspan><tspan class="p">:</tspan><tspan class="cc"> ......... </tspan><tspan class="value">149</tspan><tspan class="p"> | </tspan><tspan class="key">Forks</tspan><tspan class="p">:</tspan><tspan class="cc"> ......... </tspan><tspan class="value">27</tspan></text>
+<text x="666" y="732.8" class="orow" style="animation-delay:3.26s"><tspan class="cc">. </tspan><tspan class="key">Followers</tspan><tspan class="p">:</tspan><tspan class="cc"> ................. </tspan><tspan class="value">49</tspan><tspan class="p"> | </tspan><tspan class="key">Following</tspan><tspan class="p">:</tspan><tspan class="cc"> ................. </tspan><tspan class="value">84</tspan></text>
+<text x="666" y="768.0" class="prompt-row" style="animation-delay:3.57s"><tspan class="prompt">wael@ghnimi</tspan><tspan class="p">:</tspan><tspan class="value">~</tspan><tspan class="p">$</tspan> <tspan class="cur">&#9608;</tspan></text>
+</svg>
