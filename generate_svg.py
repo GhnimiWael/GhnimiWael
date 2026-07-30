@@ -1,26 +1,4 @@
 #!/usr/bin/env python3
-"""
-Animated terminal profile card (dark + light) for github.com/GhnimiWael.
-
-Left  : ASCII-art self-portrait that "scans" in line by line.
-Right : a terminal session — a command types out, then a neofetch-style
-        report streams line by line with a typewriter wipe + blinking cursor.
-Theme : dark_mode.svg / light_mode.svg, swapped via <picture> in the README.
-
-The animation is pure CSS (clip-path typewriter + blink) so it runs when the
-SVG is embedded as an <img>, which is exactly how GitHub renders it. It also
-degrades gracefully: prefers-reduced-motion (and any non-animating renderer)
-shows the fully-revealed card.
-
-Layout is content-driven: the column width, the canvas size and the ASCII
-scale are all derived from the text below, so editing PANEL can never push a
-value off the card — long values wrap, right-aligned, onto continuation lines.
-
-Uptime is computed from CAREER_START and the GitHub counters are pulled live
-(with a cached fallback), so neither goes stale between regenerations.
-
-Re-run:  python3 generate_svg.py
-"""
 import html
 import json
 import os
