@@ -111,7 +111,7 @@ class WaelGhnimi:
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com/?user=GhnimiWael&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffa657&fire=f85149&currStreakLabel=3fb950">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=GhnimiWael&hide_border=true&background=ffffff&ring=953800&fire=f85149&currStreakLabel=1a7f37">
-  <img alt="Commit streak" src="https://streak-stats.demolab.com/?user=GhnimiWael&hide_border=true&background=ffffff&ring=953800&fire=f85149&currStreakLabel=1a7f37">
+  <img alt="Commit streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GhnimiWael&hide_border=true&background=ffffff&ring=953800&fire=f85149&currStreakLabel=1a7f37">
 </picture>
 
 
