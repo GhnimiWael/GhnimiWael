@@ -113,7 +113,7 @@ class WaelGhnimi:
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=GhnimiWael&hide_border=true&background=ffffff&ring=953800&fire=f85149&currStreakLabel=1a7f37">
 </picture>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GhnimiWael&hide_border=true&background=ffffff&ring=953800&fire=f85149&currStreakLabel=1a7f37" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GhnimiWael&theme=neon&hide_border=true" alt="GitHub Streak" /></a>
 
 </div>
 
