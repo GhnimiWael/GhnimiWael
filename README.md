@@ -102,11 +102,6 @@ class WaelGhnimi:
   <img alt="Commit activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GhnimiWael&bg_color=ffffff&color=1f2328&line=1a7f37&point=953800&area=true&hide_border=true" width="98%">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhnimiWael&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhnimiWael&theme=default">
-  <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhnimiWael&theme=default">
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com/?user=GhnimiWael&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffa657&fire=f85149&currStreakLabel=3fb950">
