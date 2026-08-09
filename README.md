@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Wael 👋</h1>
-
 <h3 align="center">Senior Cyber Threat Intelligence Analyst · X-Red-Teamer · X-Blue-Teamer</h3>
 <p align="center"><i>Purple Teaming · CTI · Reverse Engineering</i></p>
 
